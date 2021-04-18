@@ -1,0 +1,7 @@
+[*.cs]
+
+dotnet_diagnostic.SA1611.severity = none
+dotnet_diagnostic.SA1629.severity = none
+
+# xUnit1026: Theory methods should use all of their parameters
+dotnet_diagnostic.xUnit1026.severity = none
